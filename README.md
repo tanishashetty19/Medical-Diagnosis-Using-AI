@@ -1,7 +1,7 @@
 
 #  Disease Prediction App  
 
-A **Streamlit-based web application** that predicts the likelihood of various diseases like **Heart Disease, Parkinson’s Disease, Lung Cancer and Thyroid Disease**, using **Machine Learning models**. AI based medical diagnosis sytem. 
+A **Streamlit-based web application** that predicts the likelihood of various diseases like **Heart Disease, Parkinson’s Disease, Lung Cancer, Diabetes and Hypo-Thyroid Disease**, using **Machine Learning models**. AI based medical diagnosis sytem. 
 
 ## Features  
 - **User-friendly UI** using **Streamlit**  
@@ -29,5 +29,6 @@ A **Streamlit-based web application** that predicts the likelihood of various di
 ## Diseases Supported
 - **Heart Disease**
 - **Parkinson's Disease**
-- **Thyroid Disease**
+- **Hypo-Thyroid Disease**
 - **Lung Cancer**
+- **Diabetes**
