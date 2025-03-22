@@ -34,7 +34,7 @@ A **Streamlit-based web application** that predicts the likelihood of various di
 - **Diabetes**
 - 
 ## Patient Data(Input)
-- ## Diabetes Prediction
+## Diabetes Prediction
 - Number of Pregnancies – The number of times the patient has been pregnant (for females).
 - Glucose Level – Blood sugar level in mg/dL.
 - Blood Pressure – Systolic blood pressure value in mmHg.
@@ -44,7 +44,7 @@ A **Streamlit-based web application** that predicts the likelihood of various di
 - Diabetes Pedigree Function – A value representing genetic risk of diabetes based on family history.
 - Age – The patient’s age in years.
   
-- ## Heart Disease Prediction
+## Heart Disease Prediction
 -  Age – The patient’s age in years.
 - 	Sex – 1 for male, 0 for female.
 - 	Chest Pain Type (CP) – A value from 0 to 3 indicating the severity of chest pain.
@@ -59,7 +59,7 @@ A **Streamlit-based web application** that predicts the likelihood of various di
 -  Major Vessels (ca) – Number of major blood vessels (0 to 3).
 -  Thalassemia (thal) – A blood disorder indicator (values 0 to 2).
   
--  ## Parkinson’s Disease Prediction
+  ## Parkinson’s Disease Prediction
 -  MDVP: Fo(Hz) – The fundamental frequency of the voice.
 -  MDVP: Fhi(Hz) – Highest frequency reached in voice samples.
 -  MDVP: Flo(Hz) – Lowest frequency reached in voice samples.
@@ -79,7 +79,7 @@ A **Streamlit-based web application** that predicts the likelihood of various di
 -  D2 – Nonlinear measure of voice changes.
 -  PPE (Pitch Period Entropy) – Measures randomness in pitch.
   
--  ## Lung Cancer Prediction
+  ## Lung Cancer Prediction
 -  Gender – 1 for male, 0 for female.
 -  Age – The patient’s age in years.
 -  Smoking – 1 if the patient is a smoker, 0 otherwise.
@@ -96,7 +96,7 @@ A **Streamlit-based web application** that predicts the likelihood of various di
 -  Swallowing Difficulty – 1 if the patient finds it hard to swallow food.
 -  Chest Pain – 1 if the patient experiences frequent chest pain.
   
--  ## Hypo-Thyroid Disease Prediction
+  ## Hypo-Thyroid Disease Prediction
 -  Age – The patient’s age in years.
 -  Sex – 1 for male, 0 for female.
 -  On Thyroxine – 1 if the patient is taking thyroid medication, 0 otherwise.
