@@ -32,7 +32,7 @@ A **Streamlit-based web application** that predicts the likelihood of various di
 - **Hypo-Thyroid Disease**
 - **Lung Cancer**
 - **Diabetes**
-- 
+  
 ## Patient Data(Input)
 ## Diabetes Prediction
 - Number of Pregnancies – The number of times the patient has been pregnant (for females).
